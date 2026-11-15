@@ -1,0 +1,338 @@
+{
+ "adepta-sororitas": {
+  "name": "Adepta Sororitas",
+  "n_units": 33,
+  "missions": {
+   "Take and Hold": 58.6,
+   "Purge the Foe": 60.8,
+   "Reconnaissance": 47.1,
+   "Priority Assets": 60.5,
+   "Disruption": 53.2
+  },
+  "overall": 56.1
+ },
+ "adeptus-custodes": {
+  "name": "Adeptus Custodes",
+  "n_units": 24,
+  "missions": {
+   "Take and Hold": 56.6,
+   "Purge the Foe": 65.9,
+   "Reconnaissance": 53.0,
+   "Priority Assets": 62.0,
+   "Disruption": 57.4
+  },
+  "overall": 59.0
+ },
+ "adeptus-mechanicus": {
+  "name": "Adeptus Mechanicus",
+  "n_units": 34,
+  "missions": {
+   "Take and Hold": 59.2,
+   "Purge the Foe": 63.8,
+   "Reconnaissance": 45.8,
+   "Priority Assets": 63.0,
+   "Disruption": 54.1
+  },
+  "overall": 57.2
+ },
+ "aeldari": {
+  "name": "Aeldari",
+  "n_units": 75,
+  "missions": {
+   "Take and Hold": 68.0,
+   "Purge the Foe": 72.7,
+   "Reconnaissance": 63.2,
+   "Priority Assets": 70.8,
+   "Disruption": 65.0
+  },
+  "overall": 67.9
+ },
+ "astra-militarum": {
+  "name": "Astra Militarum",
+  "n_units": 71,
+  "missions": {
+   "Take and Hold": 62.7,
+   "Purge the Foe": 64.3,
+   "Reconnaissance": 44.8,
+   "Priority Assets": 63.9,
+   "Disruption": 53.6
+  },
+  "overall": 57.9
+ },
+ "black-templars": {
+  "name": "Black Templars",
+  "n_units": 75,
+  "missions": {
+   "Take and Hold": 67.8,
+   "Purge the Foe": 70.5,
+   "Reconnaissance": 53.1,
+   "Priority Assets": 70.9,
+   "Disruption": 60.1
+  },
+  "overall": 64.5
+ },
+ "blood-angels": {
+  "name": "Blood Angels",
+  "n_units": 83,
+  "missions": {
+   "Take and Hold": 68.5,
+   "Purge the Foe": 71.0,
+   "Reconnaissance": 56.5,
+   "Priority Assets": 71.2,
+   "Disruption": 61.6
+  },
+  "overall": 65.8
+ },
+ "chaos-daemons": {
+  "name": "Chaos Daemons",
+  "n_units": 51,
+  "missions": {
+   "Take and Hold": 63.8,
+   "Purge the Foe": 69.9,
+   "Reconnaissance": 62.6,
+   "Priority Assets": 66.5,
+   "Disruption": 64.1
+  },
+  "overall": 65.4
+ },
+ "chaos-knights": {
+  "name": "Chaos Knights",
+  "n_units": 20,
+  "missions": {
+   "Take and Hold": 46.4,
+   "Purge the Foe": 58.8,
+   "Reconnaissance": 41.8,
+   "Priority Assets": 53.1,
+   "Disruption": 47.1
+  },
+  "overall": 49.4
+ },
+ "chaos-space-marines": {
+  "name": "Chaos Space Marines",
+  "n_units": 53,
+  "missions": {
+   "Take and Hold": 63.3,
+   "Purge the Foe": 67.1,
+   "Reconnaissance": 50.8,
+   "Priority Assets": 66.3,
+   "Disruption": 57.5
+  },
+  "overall": 61.0
+ },
+ "dark-angels": {
+  "name": "Dark Angels",
+  "n_units": 85,
+  "missions": {
+   "Take and Hold": 68.9,
+   "Purge the Foe": 71.5,
+   "Reconnaissance": 54.4,
+   "Priority Assets": 72.0,
+   "Disruption": 61.4
+  },
+  "overall": 65.6
+ },
+ "death-guard": {
+  "name": "Death Guard",
+  "n_units": 36,
+  "missions": {
+   "Take and Hold": 56.8,
+   "Purge the Foe": 59.3,
+   "Reconnaissance": 45.3,
+   "Priority Assets": 58.9,
+   "Disruption": 51.5
+  },
+  "overall": 54.4
+ },
+ "deathwatch": {
+  "name": "Deathwatch",
+  "n_units": 76,
+  "missions": {
+   "Take and Hold": 67.4,
+   "Purge the Foe": 69.5,
+   "Reconnaissance": 53.8,
+   "Priority Assets": 69.9,
+   "Disruption": 60.0
+  },
+  "overall": 64.1
+ },
+ "drukhari": {
+  "name": "Drukhari",
+  "n_units": 23,
+  "missions": {
+   "Take and Hold": 58.8,
+   "Purge the Foe": 66.7,
+   "Reconnaissance": 55.9,
+   "Priority Assets": 63.3,
+   "Disruption": 59.2
+  },
+  "overall": 60.8
+ },
+ "emperors-children": {
+  "name": "Emperor's Children",
+  "n_units": 23,
+  "missions": {
+   "Take and Hold": 56.0,
+   "Purge the Foe": 64.2,
+   "Reconnaissance": 53.2,
+   "Priority Assets": 60.9,
+   "Disruption": 56.6
+  },
+  "overall": 58.2
+ },
+ "genestealer-cults": {
+  "name": "Genestealer Cults",
+  "n_units": 24,
+  "missions": {
+   "Take and Hold": 57.8,
+   "Purge the Foe": 61.1,
+   "Reconnaissance": 47.8,
+   "Priority Assets": 60.6,
+   "Disruption": 54.1
+  },
+  "overall": 56.3
+ },
+ "grey-knights": {
+  "name": "Grey Knights",
+  "n_units": 26,
+  "missions": {
+   "Take and Hold": 56.1,
+   "Purge the Foe": 63.0,
+   "Reconnaissance": 45.8,
+   "Priority Assets": 60.8,
+   "Disruption": 53.6
+  },
+  "overall": 55.9
+ },
+ "imperial-agents": {
+  "name": "Imperial Agents",
+  "n_units": 29,
+  "missions": {
+   "Take and Hold": 57.9,
+   "Purge the Foe": 59.4,
+   "Reconnaissance": 43.2,
+   "Priority Assets": 59.6,
+   "Disruption": 51.4
+  },
+  "overall": 54.3
+ },
+ "imperial-knights": {
+  "name": "Imperial Knights",
+  "n_units": 22,
+  "missions": {
+   "Take and Hold": 47.1,
+   "Purge the Foe": 57.4,
+   "Reconnaissance": 43.5,
+   "Priority Assets": 52.5,
+   "Disruption": 47.6
+  },
+  "overall": 49.6
+ },
+ "leagues-of-votann": {
+  "name": "Leagues of Votann",
+  "n_units": 22,
+  "missions": {
+   "Take and Hold": 56.0,
+   "Purge the Foe": 59.3,
+   "Reconnaissance": 42.6,
+   "Priority Assets": 58.9,
+   "Disruption": 50.4
+  },
+  "overall": 53.4
+ },
+ "necrons": {
+  "name": "Necrons",
+  "n_units": 52,
+  "missions": {
+   "Take and Hold": 60.8,
+   "Purge the Foe": 67.2,
+   "Reconnaissance": 51.7,
+   "Priority Assets": 64.8,
+   "Disruption": 57.6
+  },
+  "overall": 60.4
+ },
+ "orks": {
+  "name": "Orks",
+  "n_units": 55,
+  "missions": {
+   "Take and Hold": 60.7,
+   "Purge the Foe": 65.2,
+   "Reconnaissance": 47.2,
+   "Priority Assets": 63.8,
+   "Disruption": 54.8
+  },
+  "overall": 58.3
+ },
+ "space-marines": {
+  "name": "Space Marines",
+  "n_units": 87,
+  "missions": {
+   "Take and Hold": 69.2,
+   "Purge the Foe": 71.4,
+   "Reconnaissance": 54.0,
+   "Priority Assets": 72.0,
+   "Disruption": 61.3
+  },
+  "overall": 65.6
+ },
+ "space-wolves": {
+  "name": "Space Wolves",
+  "n_units": 88,
+  "missions": {
+   "Take and Hold": 69.3,
+   "Purge the Foe": 71.0,
+   "Reconnaissance": 54.3,
+   "Priority Assets": 71.5,
+   "Disruption": 60.9
+  },
+  "overall": 65.4
+ },
+ "tau-empire": {
+  "name": "T'au Empire",
+  "n_units": 41,
+  "missions": {
+   "Take and Hold": 58.9,
+   "Purge the Foe": 64.6,
+   "Reconnaissance": 50.8,
+   "Priority Assets": 62.7,
+   "Disruption": 55.7
+  },
+  "overall": 58.5
+ },
+ "thousand-sons": {
+  "name": "Thousand Sons",
+  "n_units": 34,
+  "missions": {
+   "Take and Hold": 58.4,
+   "Purge the Foe": 64.8,
+   "Reconnaissance": 51.9,
+   "Priority Assets": 62.5,
+   "Disruption": 56.7
+  },
+  "overall": 58.9
+ },
+ "tyranids": {
+  "name": "Tyranids",
+  "n_units": 52,
+  "missions": {
+   "Take and Hold": 60.1,
+   "Purge the Foe": 64.7,
+   "Reconnaissance": 48.2,
+   "Priority Assets": 63.0,
+   "Disruption": 54.5
+  },
+  "overall": 58.1
+ },
+ "world-eaters": {
+  "name": "World Eaters",
+  "n_units": 30,
+  "missions": {
+   "Take and Hold": 57.2,
+   "Purge the Foe": 64.0,
+   "Reconnaissance": 51.9,
+   "Priority Assets": 61.2,
+   "Disruption": 55.7
+  },
+  "overall": 58.0
+ }
+}
